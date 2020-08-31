@@ -1,0 +1,17 @@
+/* 自定义字体 */
+@font-face {
+    font-family: 'Bold-Woff2';
+    src: url('https://cdn.jsdelivr.net/gh/henryhe613/CDN@latest/fonts/JetBrainsMono-1.0.3/web/woff2/JetBrainsMono-Bold.woff2');
+}
+@font-face {
+    font-family: 'Bold-Italic-Woff2';
+    src: url('https://cdn.jsdelivr.net/gh/henryhe613/CDN@latest/fonts/JetBrainsMono-1.0.3/web/woff2/JetBrainsMono-Bold-Italic.woff2');
+}
+@font-face {
+    font-family: 'ExtraBold-Woff2';
+    src: url('https://cdn.jsdelivr.net/gh/henryhe613/CDN@latest/fonts/JetBrainsMono-1.0.3/web/woff2/JetBrainsMono-ExtraBold.woff2');
+}
+@font-face {
+    font-family: 'ExtraBold-Italic-Woff2';
+    src: url('https://cdn.jsdelivr.net/gh/henryhe613/CDN@latest/fonts/JetBrainsMono-1.0.3/web/woff2/JetBrainsMono-ExtraBold-Italic.woff2');
+}
